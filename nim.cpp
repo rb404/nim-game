@@ -18,7 +18,7 @@ the first player has a winning strategy otherwise. Essentially,
 to win against the program, your first move must employ the 
 winning strategy; otherwise, the program will employ it first
 and and have a guaranteed win. To put simply, on the player's 
-turn, one should aim the subtacted total to be a multiple of 
+turn, one should aim the subtracted total to be a multiple of 
 4 plus 1 i.e. 5, 9, 13, 17, etc...
 */
 
